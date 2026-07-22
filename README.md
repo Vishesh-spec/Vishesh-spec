@@ -24,7 +24,7 @@
 name: Vishesh Mani Tripathi
 role: AI/ML Engineer & Full-Stack Developer
 education: "B.Tech CSE (AI & ML) @ VIT Vellore"
-current_focus: ["DSA Mastery", "Deep Learning", "System Design"]
+current_focus: ["DSA Mastery", "Machine-Learning", "Artificial Intelligence", "Full-Stack-Developer"]
 past_experience:
   - "Data Science Research Intern @ RIT, Rochester NY (Remote)"
   - "Artificial Intelligence Intern @ YHills"
