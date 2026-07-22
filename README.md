@@ -9,7 +9,7 @@
 <a href="https://linkedin.com/in/vishesh12"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:Visheshtripathi281@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/Vishesh-spec"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://leetcode.com/u/Vishesh_Mani_Tripathi/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 
 <img src="https://komarev.com/ghpvc/?username=Vishesh-spec&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS"/>
 <img src="https://img.shields.io/github/followers/Vishesh-spec?style=for-the-badge&color=8B5CF6&logo=github&label=FOLLOWERS"/>
@@ -129,11 +129,11 @@ fun_fact: "I turn coffee ☕ into ML pipelines and 2 AM commits"
 </td>
 <td width="50%">
 
-### 📚 StudyMate Pro
-**AI-Powered Study Companion**
-> Hinglish/English i18n, Class→Subject→Chapter hierarchy, AI flashcards/quiz/chat, Pomodoro + spaced repetition.
+### 🛒 Flipkart CSAT Classification
+**Customer Satisfaction Prediction · ML Pipeline**
+> Predicted Satisfied vs Not Satisfied support outcomes from **85,907 real Flipkart support interactions** (imbalanced ~83/17 split). Built & compared Logistic Regression, Random Forest, and XGBoost with `RandomizedSearchCV` (5-fold Stratified CV, F1-optimized), plus feature-importance based explainability for the winning model.
 
-`HTML` `JS` `Claude API`
+`Python` `XGBoost` `Scikit-Learn` `Pandas`
 
 </td>
 </tr>
