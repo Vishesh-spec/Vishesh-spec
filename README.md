@@ -23,7 +23,7 @@
 ```yaml
 name: Vishesh Mani Tripathi
 role: AI/ML Engineer & Full-Stack Developer
-education: "B.Tech CSE (AI & ML) @ VIT Vellore | CGPA: 8.3/10.0"
+education: "B.Tech CSE (AI & ML) @ VIT Vellore"
 current_focus: ["DSA Mastery", "Deep Learning", "System Design"]
 past_experience:
   - "Data Science Research Intern @ RIT, Rochester NY (Remote)"
