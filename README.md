@@ -21,14 +21,14 @@
 ## 🧬 About Me
 
 ```yaml
-name: Vishesh Mani Tripathi
-role: AI/ML Engineer & Full-Stack Developer
-education: "B.Tech CSE (AI & ML) @ VIT Vellore"
-current_focus: ["DSA Mastery", "Machine-Learning", "Artificial Intelligence", "Full-Stack-Developer"]
-past_experience:
+Name: Vishesh Mani Tripathi
+Role: AI/ML Engineer & Full-Stack Developer
+Education: "B.Tech CSE (AI & ML) @ VIT Vellore"
+Current_focus: ["DSA Mastery", "Machine-Learning", "Artificial Intelligence", "Full-Stack-Developer"]
+Past_experience:
   - "Data Science Research Intern @ RIT, Rochester NY (Remote)"
   - "Artificial Intelligence Intern @ YHills"
-fun_fact: "I turn coffee ☕ into ML pipelines and 2 AM commits"
+Fun_Fact: "I turn coffee ☕ into ML pipelines and 2 AM commits"
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:3B82F6&height=3&section=header"/>
@@ -166,8 +166,8 @@ fun_fact: "I turn coffee ☕ into ML pipelines and 2 AM commits"
 
 ```
 [■■■■■■■■□□] DSA (Arrays → Graphs → DP)          80%
-[■■■■■□□□□□] Deep Learning & Model Deployment     50%
-[■■■□□□□□□□] System Design Fundamentals           30%
+[■■■■■□□□□□] Artificial-Intelligence and Machine Learning     50%
+[■■■□□□□□□□] Full-Stack-Developer           30%
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:3B82F6,100:0F172A&height=120&section=footer"/>
